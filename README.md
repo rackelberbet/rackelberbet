@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Rackel (Rachel in english) 👋
+
+🌱 Software engeneering student.
+
+### Languages & tools:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30px" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" >
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" >
+
+
 
 <!--
 **rackelberbet/rackelberbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
